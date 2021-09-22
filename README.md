@@ -1,6 +1,7 @@
 ![youtube_homegav27 2_small](https://user-images.githubusercontent.com/81568941/134366440-23bae013-5fe3-4cf0-96cf-7df335fb4b9d.png)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mimisukeMaster&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mimisukeMaster&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi!
 
@@ -38,7 +39,8 @@ Unity- ARKit,ARCore
 <img src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&style=for-the-badge">
 <img src="https://img.shields.io/badge/C%23-239120.svg?logo=C%20Sharp&style=flat"> 
 <img src="https://img.shields.io/badge/Blender-F5792A.svg?logo=blender&color=096aff&style=flat">
- <img src="https://img.shields.io/badge/vr-F5792A.svg?logo=vr&color=00000&style=flat">
+ <img src="https://img.shields.io/badge/VR-F5792A.svg?&color=6F5BFA&style=flat">
+ <img src="https://img.shields.io/badge/AR-F5792A.svg?&color=B1F9FA&style=flat">
 <img src="https://img.shields.io/badge/Unity-MLAgents-black.svg">
   
 <img src="https://img.shields.io/badge/Python-fff609.svg?logo=python&style=flat">
