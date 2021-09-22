@@ -37,7 +37,8 @@ Unity- ARKit,ARCore
 ### Technologies 
 <img src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&style=for-the-badge">
 <img src="https://img.shields.io/badge/C%23-239120.svg?logo=C%20Sharp&style=flat"> 
-<img src="https://img.shields.io/badge/Blender-F5792A.svg?logo=blender&color=096aff&style=flat"> 
+<img src="https://img.shields.io/badge/Blender-F5792A.svg?logo=blender&color=096aff&style=flat">
+ <img src="https://img.shields.io/badge/vr-F5792A.svg?logo=vr&color=00000&style=flat">
 <img src="https://img.shields.io/badge/Unity-MLAgents-black.svg">
   
 <img src="https://img.shields.io/badge/Python-fff609.svg?logo=python&style=flat">
