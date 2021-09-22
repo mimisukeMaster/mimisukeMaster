@@ -17,7 +17,9 @@ PNG
 ![utu](https://user-images.githubusercontent.com/81568941/134357931-f76bb642-a2ef-44da-8b0b-51cc66f9fda3.png)
 
 - **VR**
+
 (I'm doing gymnastics.)
+
 ![Azuredekita](https://user-images.githubusercontent.com/81568941/134363902-fc726e5d-de24-4a2c-9d3f-48e9ff87f6cc.gif)
 
 - **AR**
