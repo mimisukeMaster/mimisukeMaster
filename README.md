@@ -26,3 +26,17 @@ PNG
 LiDAR,
 Unity- ARFoundation
 Unity- ARKit,ARCore
+### SNS
+[<img src="https://user-images.githubusercontent.com/37477845/94174253-05ab8180-fed0-11ea-8cf6-312bdb610b74.png" width="32px">](https://twitter.com/mimisukeMaster) 
+
+### JOB
+<!--<a href="https://www.slideshare.net/mimisukeMaster/" target="_blank"><img src="https://public.slidesharecdn.com/v2/images/logo/slideshare-scribd-logo@2x.png?c945845d85" alt="Slide Share" height="41" width="174" ></a>--><a href="https://www.slideshare.net/mimisukeMaster/" target="_blank"><br><img src="https://public.slidesharecdn.com/v2/images/logo/slideshare-scribd-logo@2x.png?c945845d85" alt="Slide Share" height="36" width="180" >
+
+### Technologies 
+<img src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&style=for-the-badge">
+<img src="https://img.shields.io/badge/C%23-239120.svg?logo=C%20Sharp&style=flat"> 
+<img src="https://img.shields.io/badge/Blender-F5792A.svg?logo=blender&color=096aff&style=flat"> 
+<img src="https://img.shields.io/badge/Unity-MLAgents-black.svg">
+  
+<img src="https://img.shields.io/badge/Python-fff609.svg?logo=python&style=flat">
+ 
