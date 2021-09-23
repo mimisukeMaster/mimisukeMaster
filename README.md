@@ -37,7 +37,8 @@ PNG
 [<img src="https://user-images.githubusercontent.com/81568941/134477869-b8eeb2af-7706-4d78-9d28-65207101c3a4.png" width="36px">](https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ) 
 
 ## JOB
-<!--<a href="https://www.slideshare.net/mimisukeMaster/" target="_blank"><img src="https://public.slidesharecdn.com/v2/images/logo/slideshare-scribd-logo@2x.png?c945845d85" alt="Slide Share" height="41" width="174" ></a>--><a href="https://www.slideshare.net/mimisukeMaster/" target="_blank"><br><img src="https://public.slidesharecdn.com/v2/images/logo/slideshare-scribd-logo@2x.png?c945845d85" alt="Slide Share" height="36" width="180" >
+[<img src="https://public.slidesharecdn.com/v2/images/logo/slideshare-scribd-logo@2x.png?c945845d85" width="160px">](https://www.slideshare.net/mimisukeMaster/) 
+
 
 ## Technologies 
 [<img src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&style=for-the-badge">](https://unity.com/ja)
