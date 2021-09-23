@@ -26,15 +26,12 @@ PNG
 ![Azuredekita](https://user-images.githubusercontent.com/81568941/134363902-fc726e5d-de24-4a2c-9d3f-48e9ff87f6cc.gif)
 
 - **AR**
-LiDAR,
-Unity -ARFondation
-<img src="https://img.shields.io/badge/Unity-ARFoundation-000000.svg?&color=054353&style=flat">
 
+<img src="https://user-images.githubusercontent.com/81568941/134505027-6c558d3a-802c-4272-8da5-a1aa4657ba47.png" width="40px"><img src="https://img.shields.io/badge/Unity-ARFoundation-000000.svg?&color=054353&style=flat">
+<img src="https://user-images.githubusercontent.com/81568941/134507182-f06b2fa3-17e1-46a7-91f8-5c1fb9700c99.jpeg" width="40px"><img src="https://img.shields.io/badge/LiDAR-000000.svg?&color=ffc125&style=flat">
 <img src="https://user-images.githubusercontent.com/81568941/134486820-03ffd451-a4b0-442c-9d29-df65a3283ae7.jpg" width="40px"><img src="https://img.shields.io/badge/Unity- ARKit-000000.svg?&color=16c7f3&style=flat">
-
 <img src="https://user-images.githubusercontent.com/81568941/134485878-0b5500d7-ab7f-45f3-b29c-d88df5e61d99.png" width="40px"><img src="https://img.shields.io/badge/Unity- ARCore-000000.svg?&color=ff31fe&style=flat">
 
-Unity -ARCore
 ### SNS
 [<img src="https://user-images.githubusercontent.com/37477845/94174253-05ab8180-fed0-11ea-8cf6-312bdb610b74.png" width="32px">](https://twitter.com/mimisukeMaster) 
 [<img src="https://user-images.githubusercontent.com/81568941/134477869-b8eeb2af-7706-4d78-9d28-65207101c3a4.png" width="36px">](https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ) 
@@ -45,7 +42,7 @@ Unity -ARCore
 ### Technologies 
 [<img src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&style=for-the-badge">](https://unity.com/ja)
 [<img src="https://img.shields.io/badge/C%23-239120.svg?logo=C%20Sharp&style=flat">](https://docs.microsoft.com/ja-jp/dotnet/csharp/)
-[<img src="https://img.shields.io/badge/Blender-F5792A.svg?logo=blender&color=096aff&style=flat">](https://www.blender.org/)
+[<img src="https://img.shields.io/badge/Blender-096aff.svg?logo=blender&style=flat">](https://www.blender.org/)
 [<img src="https://img.shields.io/badge/VR-F5792A.svg?&color=6F5BFA&style=flat">](https://azure.microsoft.com/ja-jp/services/kinect-dk/)
 [<img src="https://img.shields.io/badge/AR-F5792A.svg?&color=B1F9FA&style=flat">](https://unity.com/ja/unity/features/arfoundation)
 [<img src="https://img.shields.io/badge/Unity-MLAgents-black.svg">](https://unity.com/products/machine-learning-agents)
