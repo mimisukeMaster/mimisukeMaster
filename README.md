@@ -3,6 +3,16 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mimisukeMaster&show_icons=true&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mimisukeMaster&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+  <a href="https://github.com/mimisukeMaster/">
+    <img src="https://komarev.com/ghpvc/?username=mimisukeMaster" alt="mimisukeMaster" />
+  </a>
+  <a href="http://twitter.com/mimisukeMaster">
+    <img height="20" src="https://img.shields.io/twitter/follow/mimisukeMaster?color=63f82f?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/mimisukeMaster">
+    <img height="20" src="https://img.shields.io/github/followers/mimisukeMaster?color=f38ac5?label=follow&logo=github&style=flat" />
+  </a>
+
 ## Hi!
 
 My name is **mimisukeMaster**, and I'm trying to learn various technologies while making videos on Youtube. Specifically, I'm trying to learn *AR*, *VR*, *machine learning*, and even *PostProcessing* since I'm interested in making pictures. [The picture below](#hut) is a picture of a hut with a morning glow that I made using it.
@@ -39,6 +49,7 @@ PNG
 ## JOB
 [<img src="https://public.slidesharecdn.com/v2/images/logo/slideshare-scribd-logo@2x.png?c945845d85" width="160px">](https://www.slideshare.net/mimisukeMaster/) 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Technologies 
 [<img src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&style=for-the-badge">](https://unity.com/ja)
