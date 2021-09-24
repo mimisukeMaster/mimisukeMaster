@@ -44,7 +44,7 @@ PNG
 
 ## SNS
 [<img src="https://user-images.githubusercontent.com/37477845/94174253-05ab8180-fed0-11ea-8cf6-312bdb610b74.png" width="32px">](https://twitter.com/mimisukeMaster) 
-[<img src="https://user-images.githubusercontent.com/81568941/134477869-b8eeb2af-7706-4d78-9d28-65207101c3a4.png" width="36px">](https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ) 
+[<img src="https://user-images.githubusercontent.com/81568941/134698076-72b6b031-c592-4940-892d-e9307264cdd7.png" width="36px">](https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ) 
 
 ## JOB
 [<img src="https://public.slidesharecdn.com/v2/images/logo/slideshare-scribd-logo@2x.png?c945845d85" width="160px">](https://www.slideshare.net/mimisukeMaster/) 
