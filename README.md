@@ -52,9 +52,9 @@ PNG
 
 ##
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mimisukeMaster&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mimisukeMaster&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mimisukeMaster&theme=monokai)
+[![](https://raw.githubusercontent.com/mimisukeMaster/mimisukeMaster/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/mimisukeMaster/mimisukeMaster/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/mimisukeMaster/mimisukeMaster/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ##
 
 ## Technologies 
