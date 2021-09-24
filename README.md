@@ -1,7 +1,7 @@
 ![youtube_homegav27 2_small](https://user-images.githubusercontent.com/81568941/134366440-23bae013-5fe3-4cf0-96cf-7df335fb4b9d.png)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mimisukeMaster&show_icons=true&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mimisukeMaster&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimisukeMaster&layout=compact" />
 
   <a href="https://github.com/mimisukeMaster/">
     <img src="https://komarev.com/ghpvc/?username=mimisukeMaster" alt="mimisukeMaster" />
@@ -10,7 +10,7 @@
     <img height="20" src="https://img.shields.io/twitter/follow/mimisukeMaster?color=63f82f?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/mimisukeMaster">
-    <img height="20" src="https://img.shields.io/github/followers/mimisukeMaster?color=f38ac5?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/mimisukeMaster?color=f38ac5?label=follow &logo=github&style=flat" />
   </a>
 
 ## Hi!
