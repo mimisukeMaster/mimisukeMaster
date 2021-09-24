@@ -49,7 +49,13 @@ PNG
 ## JOB
 [<img src="https://public.slidesharecdn.com/v2/images/logo/slideshare-scribd-logo@2x.png?c945845d85" width="160px">](https://www.slideshare.net/mimisukeMaster/) 
 
+
+##
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mimisukeMaster&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mimisukeMaster&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mimisukeMaster&theme=monokai)
+##
 
 ## Technologies 
 [<img src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&style=for-the-badge">](https://unity.com/ja)
