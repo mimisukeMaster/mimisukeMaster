@@ -1,6 +1,6 @@
-<img src="https://user-images.githubusercontent.com/81568941/134366440-23bae013-5fe3-4cf0-96cf-7df335fb4b9d.png" width="70%"><img align="right" src="https://media2.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="25%">
+<img src="https://user-images.githubusercontent.com/81568941/134366440-23bae013-5fe3-4cf0-96cf-7df335fb4b9d.png" width="60%"><img align="right" src="https://media2.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mimisukeMaster&show_icons=true&count_private=true&theme=onedark" width="50%"><img align="right" src="https://media3.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="20%">
+<img src="https://github-readme-stats.vercel.app/api?username=mimisukeMaster&show_icons=true&count_private=true&theme=onedark" width="50%"><img align="right" src="https://media3.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="40%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimisukeMaster&layout=compact" width="35%">
 <br>
 <a href="https://twitter.com/mimisukeMaster">
