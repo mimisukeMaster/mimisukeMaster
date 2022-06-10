@@ -24,7 +24,7 @@
     <img height="20" src="https://img.shields.io/github/followers/mimisukeMaster?color=f38ac5?label=follow &logo=github&style=flat" />
   </a>
 
-## Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">
+## Hi! 
 
 I'm **mimisukeMaster**, and I'm trying to learn various technologies while making videos on [Youtube](https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ). Specifically, I'm trying to learn [*AR*](https://unity.com/ja/unity/features/arfoundation), [*VR*](https://azure.microsoft.com/ja-jp/services/kinect-dk/), [*machine learning*](https://unity.com/products/machine-learning-agents), and even [*PostProcessing*](https://docs.unity3d.com/Manual/PostProcessingOverview.html) since I'm interested in making pictures. [The picture below](#hut) is a picture of a hut with a morning glow that I made using it.
  These are all done using [**Unity**](https://unity.com/ja). I may publish a repository related these(*AR,VR,AI*) in the future.
