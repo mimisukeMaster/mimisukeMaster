@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/81568941/134366440-23bae013-5fe3-4cf0-96cf-7df335fb4b9d.png" width="50%">
-<br><img src="https://media2.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="30%"><img src="https://media3.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30%">
+<br><img src="https://media2.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="20%" align="left"><img src="https://media3.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="15%">
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=mimisukeMaster&show_icons=true&count_private=true&theme=onedark" width="50%">
@@ -24,7 +24,7 @@
     <img height="20" src="https://img.shields.io/github/followers/mimisukeMaster?color=f38ac5?label=follow &logo=github&style=flat" />
   </a>
 
-## Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+## Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">
 
 I'm **mimisukeMaster**, and I'm trying to learn various technologies while making videos on [Youtube](https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ). Specifically, I'm trying to learn [*AR*](https://unity.com/ja/unity/features/arfoundation), [*VR*](https://azure.microsoft.com/ja-jp/services/kinect-dk/), [*machine learning*](https://unity.com/products/machine-learning-agents), and even [*PostProcessing*](https://docs.unity3d.com/Manual/PostProcessingOverview.html) since I'm interested in making pictures. [The picture below](#hut) is a picture of a hut with a morning glow that I made using it.
  These are all done using [**Unity**](https://unity.com/ja). I may publish a repository related these(*AR,VR,AI*) in the future.
