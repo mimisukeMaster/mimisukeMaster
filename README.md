@@ -13,7 +13,7 @@
   <img align="left" alt="mimisukeMaster | Youtube" width="60px" src="https://img.icons8.com/clouds/344/youtube.png" />
   </a>
 <a href="https://www.artstation.com/mimisukemaster">
-  <img align="left" alt="mimisukeMaster | ArtStation" width="50px" src="https://img.icons8.com/color/48/undefined/artstation.png" />
+  <img align="left" alt="mimisukeMaster | ArtStation" width=110px" src="https://www.artstation.com/assets/about/logo/logo-artstation-vertical-a8aa107f79c46c9b16dcc7c5fe746084.png" />
   </a>
   </a>
   <br><br>
@@ -63,7 +63,8 @@ PNG
 
 ## JOB
 [<img src="https://public.slidesharecdn.com/v2/images/logo/slideshare-scribd-logo@2x.png?c945845d85" width="160px">](https://www.slideshare.net/mimisukeMaster/) 
-[<img src="https://user-images.githubusercontent.com/81568941/158958883-3bc5b439-74ec-4c4b-b2b4-fa5721e57303.png" width="160px">](https://unityroom/users/s042t3bj965a1cfhlgnd)
+ [<img src="https://user-images.githubusercontent.com/81568941/158958883-3bc5b439-74ec-4c4b-b2b4-fa5721e57303.png" width="160px">](https://unityroom/users/s042t3bj965a1cfhlgnd)
+<br>[<img src="https://www.artstation.com/assets/about/logo/logo-artstation-horizontal-cbbe936e68623842ca878651bfd9ceb3.png" width="170px">](https://www.artstation.com/mimisukemaster)                                                                                 
 
 ##
 [![trophy](https://github-profile-trophy.vercel.app/?username=mimisukeMaster&theme=radical&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
