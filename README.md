@@ -7,10 +7,14 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimisukeMaster&layout=compact" width="35%">
 <br>
 <a href="https://twitter.com/mimisukeMaster">
-  <img align="left" alt="mimisukeMaster | Twitter" width="60px" src="https://img.icons8.com/clouds/344/twitter.png" />
+  <img align="left" alt="mimisukeMaster | Twitter" width="60px" src="https://img.icons8.com/clouds/100/undefined/twitter-circled.png"/>
   </a>
 <a href="https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ">
   <img align="left" alt="mimisukeMaster | Youtube" width="60px" src="https://img.icons8.com/clouds/344/youtube.png" />
+  </a>
+<a href="https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ">
+  <img align="left" alt="mimisukeMaster | ArtStation" width="50px" src="https://img.icons8.com/color/48/undefined/artstation.png" />
+  </a>
   </a>
   <br><br>
 
