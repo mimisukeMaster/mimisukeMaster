@@ -12,7 +12,7 @@
 <a href="https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ">
   <img align="left" alt="mimisukeMaster | Youtube" width="60px" src="https://img.icons8.com/clouds/344/youtube.png" />
   </a>
-<a href="https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ">
+<a href="https://www.artstation.com/mimisukemaster">
   <img align="left" alt="mimisukeMaster | ArtStation" width="50px" src="https://img.icons8.com/color/48/undefined/artstation.png" />
   </a>
   </a>
