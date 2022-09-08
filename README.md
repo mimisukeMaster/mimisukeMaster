@@ -1,32 +1,21 @@
-<img src="https://user-images.githubusercontent.com/81568941/134366440-23bae013-5fe3-4cf0-96cf-7df335fb4b9d.png" width="50%">
-<br><img src="https://media2.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="20%" align="left"><img src="https://media3.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="15%">
-<br>
+<img src="https://user-images.githubusercontent.com/81568941/134366440-23bae013-5fe3-4cf0-96cf-7df335fb4b9d.png" width="50%"><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mimisukeMaster&show_icons=true&count_private=true&theme=onedark" width="50%">
+<img src="https://media2.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100px">
+<img src="https://media3.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100px"><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimisukeMaster&layout=compact" width="35%">
-<br>
-<a href="https://twitter.com/mimisukeMaster">
-  <img align="left" alt="mimisukeMaster | Twitter" width="60px" src="https://img.icons8.com/clouds/100/undefined/twitter-circled.png"/>
-  </a>
-<a href="https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ">
-  <img align="left" alt="mimisukeMaster | Youtube" width="60px" src="https://img.icons8.com/clouds/344/youtube.png" />
-  </a>
-<a href="https://www.artstation.com/mimisukemaster">
-  <img align="left" alt="mimisukeMaster | ArtStation" width=110px" src="https://www.artstation.com/assets/about/logo/logo-artstation-vertical-a8aa107f79c46c9b16dcc7c5fe746084.png" />
-  </a>
-  </a>
-  <br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=mimisukeMaster&show_icons=true&count_private=true&theme=onedark" width="160px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimisukeMaster&layout=compact" width="160px">
 
-  <a href="https://github.com/mimisukeMaster/">
-    <img src="https://komarev.com/ghpvc/?username=mimisukeMaster" alt="mimisukeMaster" />
-  </a>
-  <a href="http://twitter.com/mimisukeMaster">
-    <img height="20" src="https://img.shields.io/twitter/follow/mimisukeMaster?color=63f82f?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="https://github.com/mimisukeMaster">
-    <img height="20" src="https://img.shields.io/github/followers/mimisukeMaster?color=f38ac5?label=follow &logo=github&style=flat" />
-  </a>
+<br><p align="center">
+[<img src="https://img.shields.io/badge/-Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white">](https://twitter.com/mimisukeMaster)
+[<img src="https://img.shields.io/badge/-ArtStation-artstation.svg?&style=flat-square&logo=artstation&logoColor=blue&color=gray">](https://www.artstation.com/mimisukemaster)
+[<img src="https://img.shields.io/badge/-Youtube-youtube.svg?&style=flat-square&logo=youtube&logoColor=white&color=red">](https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ)<br>
+
+<p align="center">
+<img src="https://img.shields.io/twitter/follow/mimisukeMaster?color=63f82f?label=Twitter&logo=twitter&style=flat">
+<img src="https://komarev.com/ghpvc/?username=mimisukeMaster">
+<img src="https://img.shields.io/github/followers/mimisukeMaster?color=f38ac5?label=follow &logo=github&style=flat">
+<img src="https://badges.pufler.dev/commits/yearly/mimisukeMaster">
 
 ## Hi! 
 
@@ -61,12 +50,11 @@ PNG
 [<img src="https://user-images.githubusercontent.com/37477845/94174253-05ab8180-fed0-11ea-8cf6-312bdb610b74.png" width="32px">](https://twitter.com/mimisukeMaster) 
 [<img src="https://user-images.githubusercontent.com/81568941/134698076-72b6b031-c592-4940-892d-e9307264cdd7.png" width="36px">](https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ) 
 
-## JOB
-[<img src="https://public.slidesharecdn.com/v2/images/logo/slideshare-scribd-logo@2x.png?c945845d85" width="160px">](https://www.slideshare.net/mimisukeMaster/) 
- [<img src="https://user-images.githubusercontent.com/81568941/158958883-3bc5b439-74ec-4c4b-b2b4-fa5721e57303.png" width="160px">](https://unityroom/users/s042t3bj965a1cfhlgnd)
-<br>[<img src="https://www.artstation.com/assets/about/logo/logo-artstation-horizontal-cbbe936e68623842ca878651bfd9ceb3.png" width="170px">](https://www.artstation.com/mimisukemaster)                                                                                 
+## WORKS
+[<img src="https://public.slidesharecdn.com/v2/images/logo/slideshare-scribd-logo@2x.png?c945845d85" width="130px">](https://www.slideshare.net/mimisukeMaster/) [<img src="https://user-images.githubusercontent.com/81568941/158958883-3bc5b439-74ec-4c4b-b2b4-fa5721e57303.png" width="150px">](https://unityroom/users/s042t3bj965a1cfhlgnd)
+[<img src="https://img.shields.io/badge/ART STATION-black?style=flat-square&logo=artstation" width="160px">](https://uycc.unity3d.jp/entry/2022/1545)                                                                              
 
-##
+## STATS
 [![trophy](https://github-profile-trophy.vercel.app/?username=mimisukeMaster&theme=radical&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 [![](https://raw.githubusercontent.com/mimisukeMaster/mimisukeMaster/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/mimisukeMaster/mimisukeMaster/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -76,9 +64,9 @@ PNG
 ## Technologies <img src="https://media2.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="3%">
 [<img src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&style=for-the-badge">](https://unity.com/ja)
 [<img src="https://img.shields.io/badge/C%23-239120.svg?logo=C%20Sharp&style=flat">](https://docs.microsoft.com/ja-jp/dotnet/csharp/)
+[<img src="https://img.shields.io/badge/Python-fff609.svg?logo=python&style=flat">](https://www.python.org/)
 [<img src="https://img.shields.io/badge/Blender-096aff.svg?logo=blender&style=flat">](https://www.blender.org/)
+[<img src="https://img.shields.io/badge/Unity-MLAgents-black.svg">](https://unity.com/products/machine-learning-agents)
 [<img src="https://img.shields.io/badge/VR-F5792A.svg?&color=6F5BFA&style=flat">](https://azure.microsoft.com/ja-jp/services/kinect-dk/)
 [<img src="https://img.shields.io/badge/AR-F5792A.svg?&color=B1F9FA&style=flat">](https://unity.com/ja/unity/features/arfoundation)
-[<img src="https://img.shields.io/badge/Unity-MLAgents-black.svg">](https://unity.com/products/machine-learning-agents)
-[<img src="https://img.shields.io/badge/Python-fff609.svg?logo=python&style=flat">](https://www.python.org/)
  
