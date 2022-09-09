@@ -3,8 +3,8 @@
 <img src="https://media2.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100px">
 <img src="https://media3.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100px"><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mimisukeMaster&show_icons=true&count_private=true&theme=onedark" width="160px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimisukeMaster&layout=compact" width="160px">
+<img src="https://github-readme-stats.vercel.app/api?username=mimisukeMaster&show_icons=true&count_private=true&theme=onedark" width="240px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimisukeMaster&layout=compact" width="240px">
 
 <br><p align="center">
 [<img src="https://img.shields.io/badge/-Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white">](https://twitter.com/mimisukeMaster)
