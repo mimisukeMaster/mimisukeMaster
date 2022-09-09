@@ -1,8 +1,8 @@
 <img src="https://user-images.githubusercontent.com/81568941/134366440-23bae013-5fe3-4cf0-96cf-7df335fb4b9d.png" width="50%">
-<img src="https://media2.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100px">><br>
+<img src="https://media2.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100px"><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mimisukeMaster&show_icons=true&count_private=true&theme=onedark" width="240px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimisukeMaster&layout=compact" width="240px">
+<img src="https://github-readme-stats.vercel.app/api?username=mimisukeMaster&show_icons=true&count_private=true&theme=onedark" width="300px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimisukeMaster&layout=compact" width="300px">
 
 <br><p align="center">
 [<img src="https://img.shields.io/badge/-Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white">](https://twitter.com/mimisukeMaster)
