@@ -50,7 +50,7 @@ PNG
 
 ## WORKS
 [<img src="https://public.slidesharecdn.com/v2/images/logo/slideshare-scribd-logo@2x.png?c945845d85" width="130px">](https://www.slideshare.net/mimisukeMaster/) [<img src="https://user-images.githubusercontent.com/81568941/158958883-3bc5b439-74ec-4c4b-b2b4-fa5721e57303.png" width="150px">](https://unityroom/users/s042t3bj965a1cfhlgnd)
-[<img src="https://img.shields.io/badge/ART STATION-black?style=flat-square&logo=artstation" width="160px">](https://uycc.unity3d.jp/entry/2022/1545)                                                                              
+[<img src="https://img.shields.io/badge/ART STATION-black?style=flat-square&logo=artstation" width="160px">](https://www.artstation.com/mimisukemaster)                                                                              
 
 ## STATS
 [![trophy](https://github-profile-trophy.vercel.app/?username=mimisukeMaster&theme=radical&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
