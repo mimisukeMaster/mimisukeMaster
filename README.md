@@ -5,12 +5,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimisukeMaster&layout=compact" width="300px">
 
 <br><p align="center">
-[<img src="https://img.shields.io/badge/-Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white">](https://twitter.com/mimisukeMaster)
+[<img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FmimisukeMaster">](https://x.com/mimisukeMaster)
 [<img src="https://img.shields.io/badge/-ArtStation-artstation.svg?&style=flat-square&logo=artstation&logoColor=blue&color=gray">](https://www.artstation.com/mimisukemaster)
 [<img src="https://img.shields.io/badge/-Youtube-youtube.svg?&style=flat-square&logo=youtube&logoColor=white&color=red">](https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ)<br>
 
 <p align="center">
-<img src="https://img.shields.io/twitter/follow/mimisukeMaster?color=63f82f?label=Twitter&logo=twitter&style=flat">
 <img src="https://komarev.com/ghpvc/?username=mimisukeMaster">
 <img src="https://img.shields.io/github/followers/mimisukeMaster?color=f38ac5?label=follow &logo=github&style=flat">
 
@@ -45,7 +44,7 @@ PNG
 [<img src="https://user-images.githubusercontent.com/81568941/134699086-d110d08f-170a-4367-b012-750682c5a585.png" width="40px"><img src="https://img.shields.io/badge/Unity- ARCore-000000.svg?&color=ff31fe&style=flat">](https://developers.google.com/ar)
 
 ## SNS
-[<img src="https://user-images.githubusercontent.com/37477845/94174253-05ab8180-fed0-11ea-8cf6-312bdb610b74.png" width="32px">](https://twitter.com/mimisukeMaster) 
+[<img src="xxxx" width="32px">](https://twitter.com/mimisukeMaster) 
 [<img src="https://user-images.githubusercontent.com/81568941/134698076-72b6b031-c592-4940-892d-e9307264cdd7.png" width="36px">](https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ) 
 
 ## WORKS
