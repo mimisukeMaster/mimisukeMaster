@@ -44,7 +44,8 @@ PNG
 [<img src="https://user-images.githubusercontent.com/81568941/134699086-d110d08f-170a-4367-b012-750682c5a585.png" width="40px"><img src="https://img.shields.io/badge/Unity- ARCore-000000.svg?&color=ff31fe&style=flat">](https://developers.google.com/ar)
 
 ## SNS
-[<img src="xxxx" width="32px">](https://twitter.com/mimisukeMaster) 
+[<img src="![XIcon](https://github.com/mimisukeMaster/mimisukeMaster/assets/81568941/476ca95c-12f1-4a4d-8bc0-855473c8b832)
+" width="32px">](https://twitter.com/mimisukeMaster) 
 [<img src="https://user-images.githubusercontent.com/81568941/134698076-72b6b031-c592-4940-892d-e9307264cdd7.png" width="36px">](https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ) 
 
 ## WORKS
