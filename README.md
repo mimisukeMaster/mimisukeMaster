@@ -5,7 +5,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimisukeMaster&layout=compact" width="300px">
 
 <br><p align="center">
-[<img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FmimisukeMaster">](https://x.com/mimisukeMaster)
+ [<img src="https://img.shields.io/badge/-X-X.svg?style=flat-square&logo=X&logoColor=white&color=black">](https://twitter.com/mimisukeMaster)
 [<img src="https://img.shields.io/badge/-ArtStation-artstation.svg?&style=flat-square&logo=artstation&logoColor=blue&color=gray">](https://www.artstation.com/mimisukemaster)
 [<img src="https://img.shields.io/badge/-Youtube-youtube.svg?&style=flat-square&logo=youtube&logoColor=white&color=red">](https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ)<br>
 
