@@ -1,11 +1,7 @@
-<img src="https://user-images.githubusercontent.com/81568941/134366440-23bae013-5fe3-4cf0-96cf-7df335fb4b9d.png" width="50%">
-<img src="https://media2.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100px"><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=mimisukeMaster&show_icons=true&count_private=true&theme=onedark" width="300px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimisukeMaster&layout=compact" width="300px">
-
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mimisukeMaster&show_icons=true&count_private=true&theme=onedark" width="340px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimisukeMaster&layout=compact" width="300px">
+ 
 <br><p align="center">
- [<img src="https://img.shields.io/badge/-X-X.svg?style=flat-square&logo=X&logoColor=white&color=black">](https://twitter.com/mimisukeMaster)
+[<img src="https://img.shields.io/badge/-X-X.svg?style=flat-square&logo=X&logoColor=white&color=black">](https://twitter.com/mimisukeMaster)
 [<img src="https://img.shields.io/badge/-ArtStation-artstation.svg?&style=flat-square&logo=artstation&logoColor=blue&color=gray">](https://www.artstation.com/mimisukemaster)
 [<img src="https://img.shields.io/badge/-Youtube-youtube.svg?&style=flat-square&logo=youtube&logoColor=white&color=red">](https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ)<br>
 
@@ -16,28 +12,20 @@
 
 ## Hi! 
 
-I'm **mimisukeMaster**, and I'm trying to learn various technologies. Specifically, I'm trying to learn [*Mediapipe*](https://google.github.io/mediapipe/solutions/hands.html),[*Unity-Barracuda*](https://docs.unity3d.com/ja/2019.4/Manual/com.unity.barracuda.html) and even [*PostProcessing*](https://docs.unity3d.com/Manual/PostProcessingOverview.html) since I'm interested in making pictures. (and [*AR*](https://unity.com/ja/unity/features/arfoundation), [*VR*](https://azure.microsoft.com/ja-jp/services/kinect-dk/), [*ML-Agents*](https://unity.com/products/machine-learning-agents)...) [The picture below](#hut) is a picture of a hut with a morning glow that I made using it. (I'm also making videos on [Youtube](https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ))
- These are all done using [**Unity**](https://unity.com/ja). I may publish a repository related these in the future.
- 
- Links, etc. are at the bottom. 
+I'm **mimisukeMaster**. I mainly use Unity and try out different technologies. ex: Blender, Shader languages, [Mediapipe](https://google.github.io/mediapipe/solutions/hands.html)(→[AR](https://unity.com/ja/unity/features/arfoundation)), [Unity-Barracuda](https://docs.unity3d.com/ja/2019.4/Manual/com.unity.barracuda.html), [ML-Agents](https://unity.com/products/machine-learning-agents), [PostProcessing](https://docs.unity3d.com/Manual/PostProcessingOverview.html), [VR](https://azure.microsoft.com/ja-jp/services/kinect-dk/) I also have a little video on [Youtube](https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ).
  
 ## What I'm doing
-- **<h4 id=hut>Post Processing</h4>**
-
+### Post Processing
  GIF
-<img src="https://user-images.githubusercontent.com/81568941/134362253-bf665f26-b4f8-449c-a611-2d80ad3233c1.gif" width="500px">
-
+<img src="https://user-images.githubusercontent.com/81568941/134362253-bf665f26-b4f8-449c-a611-2d80ad3233c1.gif" width="250px">
 PNG
-<img src="https://user-images.githubusercontent.com/81568941/134357931-f76bb642-a2ef-44da-8b0b-51cc66f9fda3.png" width="500px">
+<img src="https://user-images.githubusercontent.com/81568941/134357931-f76bb642-a2ef-44da-8b0b-51cc66f9fda3.png" width="250px">
 
-- **VR**
+### VR
+(I'm doing gymnastics.)<br>
+<img src="https://user-images.githubusercontent.com/81568941/134363902-fc726e5d-de24-4a2c-9d3f-48e9ff87f6cc.gif" width="250px">
 
-(I'm doing gymnastics.)
-
-<img src="https://user-images.githubusercontent.com/81568941/134363902-fc726e5d-de24-4a2c-9d3f-48e9ff87f6cc.gif" width="500px">
-
-- **AR**
-
+### AR
 [<img src="https://user-images.githubusercontent.com/81568941/134698743-e12b1a38-3df4-4e71-837e-e03b11b45cca.png" width="40px"><img src="https://img.shields.io/badge/Unity-ARFoundation-000000.svg?&color=054353&style=flat">](https://unity.com/ja/unity/features/arfoundation)
 [<img src="https://user-images.githubusercontent.com/81568941/134698866-849d09e0-0d46-4f44-beed-c98f3ba12885.jpeg" width="40px"><img src="https://img.shields.io/badge/LiDAR-000000.svg?&color=ffc125&style=flat">](https://www.apple.com/jp/newsroom/2020/03/apple-unveils-new-ipad-pro-with-lidar-scanner-and-trackpad-support-in-ipados/)
 [<img src="https://user-images.githubusercontent.com/81568941/134699038-34a40383-f66b-4d1b-b81d-252823c5417d.jpg" width="40px"><img src="https://img.shields.io/badge/Unity- ARKit-000000.svg?&color=16c7f3&style=flat">](https://docs.unity3d.com/Packages/com.unity.xr.arkit@4.2/manual/index.html)
