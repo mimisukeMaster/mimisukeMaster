@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mimisukeMaster&show_icons=true&count_private=true&theme=onedark" width="340px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimisukeMaster&layout=compact" width="300px"><img src="https://github.com/mimisukeMaster/mimisukeMaster/assets/81568941/99e32e6b-c4c6-4f7d-ace8-494a4bc02221" width="320px">
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mimisukeMaster&show_icons=true&count_private=true&theme=onedark" width="340px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimisukeMaster&layout=compact" width="300px">
  
 <br><p align="center">
 [<img src="https://img.shields.io/badge/-X-X.svg?style=flat-square&logo=X&logoColor=white&color=black">](https://twitter.com/mimisukeMaster)
