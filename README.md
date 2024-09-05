@@ -23,10 +23,15 @@ PNG
 <img src="https://user-images.githubusercontent.com/81568941/134357931-f76bb642-a2ef-44da-8b0b-51cc66f9fda3.png" width="250px">
 
 ### Simulation
+This is a [simulation of universal gravitation](https://github.com/mimisukeMaster/Simulation-of-Universal-Gravitation)<br>
+<img src="https://github.com/user-attachments/assets/c45c6f74-75bf-46cd-92e9-1e09ae9610f9" width=250px>
 
 ### Python System
+This is an implementation of a Markov chain system in python<br>
+<img width="350" src="https://github.com/user-attachments/assets/9d7ebcbd-1207-4e3d-92c2-b81a1e46030d">
 
 ### Web Application
+<img width="350" alt="image" src="https://github.com/user-attachments/assets/80a60e1b-5849-47db-9a47-079e4404e52f">
 
 
 ### VR
