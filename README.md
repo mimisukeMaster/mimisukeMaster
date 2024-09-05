@@ -12,7 +12,8 @@
 
 ## Hi! 
 
-I'm **mimisukeMaster**. I mainly use Unity and try out different technologies. ex: Blender, Shader languages, [Mediapipe](https://google.github.io/mediapipe/solutions/hands.html)(→[AR](https://unity.com/ja/unity/features/arfoundation)), [Unity-Barracuda](https://docs.unity3d.com/ja/2019.4/Manual/com.unity.barracuda.html), [ML-Agents](https://unity.com/products/machine-learning-agents), [PostProcessing](https://docs.unity3d.com/Manual/PostProcessingOverview.html), [VR](https://azure.microsoft.com/ja-jp/services/kinect-dk/) I also have a little video on [Youtube](https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ).
+I'm **mimisukeMaster**. I often use Unity and try out different technologies. Please check below.
+I also have a little video on [Youtube](https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ).
  
 ## What I'm doing
 ### Post Processing
@@ -20,6 +21,13 @@ I'm **mimisukeMaster**. I mainly use Unity and try out different technologies. e
 <img src="https://user-images.githubusercontent.com/81568941/134362253-bf665f26-b4f8-449c-a611-2d80ad3233c1.gif" width="250px">
 PNG
 <img src="https://user-images.githubusercontent.com/81568941/134357931-f76bb642-a2ef-44da-8b0b-51cc66f9fda3.png" width="250px">
+
+### Simulation
+
+### Python System
+
+### Web Application
+
 
 ### VR
 (I'm doing gymnastics.)<br>
