@@ -27,10 +27,11 @@ This is a [simulation of universal gravitation](https://github.com/mimisukeMaste
 <img src="https://github.com/user-attachments/assets/c45c6f74-75bf-46cd-92e9-1e09ae9610f9" width=250px>
 
 ### Python System
-This is an implementation of a Markov chain system in python<br>
+This is an implementation of a [Markov chain system in python](https://github.com/mimisukeMaster/MarkovChainGenerator)<br>
 <img width="350" src="https://github.com/user-attachments/assets/9d7ebcbd-1207-4e3d-92c2-b81a1e46030d">
 
 ### Web Application
+Web application that uses GeminiAPI and reads out the answers using VOICEVOX
 <img width="350" alt="image" src="https://github.com/user-attachments/assets/80a60e1b-5849-47db-9a47-079e4404e52f">
 
 
