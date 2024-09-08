@@ -60,9 +60,6 @@ Web application that [uses GeminiAPI and reads out the answers using VOICEVOX](h
 [<img src="https://img.shields.io/badge/ART STATION-black?style=flat-square&logo=artstation" width="160px">](https://www.artstation.com/mimisukemaster) 
 [<img src="https://user-images.githubusercontent.com/81568941/158958883-3bc5b439-74ec-4c4b-b2b4-fa5721e57303.png" width="150px">](https://unityroom.com/users/mimisukemaster)
 
-## STATS
-[![trophy](https://github-profile-trophy.vercel.app/?username=mimisukeMaster&theme=radical&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## Technologies <img src="https://media2.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="3%">
 [<img src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&style=for-the-badge">](https://unity.com/ja)
 [<img src="https://img.shields.io/badge/C%23-239120.svg?logo=C%20Sharp&style=flat">](https://docs.microsoft.com/ja-jp/dotnet/csharp/)
