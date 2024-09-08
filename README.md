@@ -1,4 +1,11 @@
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mimisukeMaster&show_icons=true&count_private=true&theme=onedark" width="340px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimisukeMaster&layout=compact" width="300px">
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=mimisukeMaster&show_icons=true&count_private=true&theme=onedark" width="340px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimisukeMaster&layout=compact&langs_count=15&theme=onedark&hide=shaderlab" width="300px">
+<br>
+<img src="https://raw.githubusercontent.com/mimisukeMaster/mimisukeMaster/main/profile-summary-card-output/monokai/1-repos-per-language.svg" width="300px">
+<img src="https://raw.githubusercontent.com/mimisukeMaster/mimisukeMaster/main/profile-summary-card-output/monokai/4-productive-time.svg" width="300px">
+ 
+ <img src="https://github-profile-trophy.vercel.app/?username=mimisukeMaster&theme=radical&no-bg=true">
+</p>
  
 <br><p align="center">
 [<img src="https://img.shields.io/badge/-X-X.svg?style=flat-square&logo=X&logoColor=white&color=black">](https://twitter.com/mimisukeMaster)
@@ -31,7 +38,7 @@ This is an implementation of a [Markov chain system in python](https://github.co
 <img width="350" src="https://github.com/user-attachments/assets/9d7ebcbd-1207-4e3d-92c2-b81a1e46030d">
 
 ### Web Application
-Web application that uses GeminiAPI and reads out the answers using VOICEVOX
+Web application that [uses GeminiAPI and reads out the answers using VOICEVOX](https://github.com/mimisukeMaster/GeminiVoicevox)
 <img width="350" alt="image" src="https://github.com/user-attachments/assets/80a60e1b-5849-47db-9a47-079e4404e52f">
 
 
@@ -50,20 +57,18 @@ Web application that uses GeminiAPI and reads out the answers using VOICEVOX
 [<img src="https://user-images.githubusercontent.com/81568941/134698076-72b6b031-c592-4940-892d-e9307264cdd7.png" width="36px">](https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ) 
 
 ## WORKS
-[<img src="https://public.slidesharecdn.com/v2/images/logo/slideshare-scribd-logo@2x.png?c945845d85" width="130px">](https://www.slideshare.net/mimisukeMaster/) [<img src="https://user-images.githubusercontent.com/81568941/158958883-3bc5b439-74ec-4c4b-b2b4-fa5721e57303.png" width="150px">](https://unityroom.com/users/mimisukemaster)
-[<img src="https://img.shields.io/badge/ART STATION-black?style=flat-square&logo=artstation" width="160px">](https://www.artstation.com/mimisukemaster)                                                                              
+[<img src="https://img.shields.io/badge/ART STATION-black?style=flat-square&logo=artstation" width="160px">](https://www.artstation.com/mimisukemaster) 
+[<img src="https://user-images.githubusercontent.com/81568941/158958883-3bc5b439-74ec-4c4b-b2b4-fa5721e57303.png" width="150px">](https://unityroom.com/users/mimisukemaster)
 
 ## STATS
 [![trophy](https://github-profile-trophy.vercel.app/?username=mimisukeMaster&theme=radical&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-[![](https://raw.githubusercontent.com/mimisukeMaster/mimisukeMaster/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/mimisukeMaster/mimisukeMaster/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/mimisukeMaster/mimisukeMaster/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-##
 
 ## Technologies <img src="https://media2.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="3%">
 [<img src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&style=for-the-badge">](https://unity.com/ja)
 [<img src="https://img.shields.io/badge/C%23-239120.svg?logo=C%20Sharp&style=flat">](https://docs.microsoft.com/ja-jp/dotnet/csharp/)
-[<img src="https://img.shields.io/badge/Python-fff609.svg?logo=python&style=flat">](https://www.python.org/)
+[<img src="https://img.shields.io/badge/Python-ffbf00.svg?logo=python&style=flat">](https://www.python.org/)
+[<img src="https://img.shields.io/badge/javascript-333332.svg?logo=javascript&style=flat">](https://developer.mozilla.org/ja/docs/Web/JavaScript)
+[<img src="https://img.shields.io/badge/node.js-03c04a.svg?logo=node&style=flat">](https://nodejs.org/en)
 [<img src="https://img.shields.io/badge/Blender-096aff.svg?logo=blender&style=flat">](https://www.blender.org/)
 [<img src="https://img.shields.io/badge/Unity-MLAgents-black.svg">](https://unity.com/products/machine-learning-agents)
 [<img src="https://img.shields.io/badge/VR-F5792A.svg?&color=6F5BFA&style=flat">](https://azure.microsoft.com/ja-jp/services/kinect-dk/)
