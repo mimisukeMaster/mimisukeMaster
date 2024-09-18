@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=mimisukeMaster&show_icons=true&count_private=true&theme=onedark" width="340px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimisukeMaster&layout=compact&langs_count=15&theme=onedark&hide=shaderlab" width="300px">
+ <img src="https://raw.githubusercontent.com/mimisukeMaster/mimisukeMaster/main/profile-summary-card-output/onedark/3-stats.svg" width="280px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimisukeMaster&layout=compact&langs_count=15&theme=onedark&hide=shaderlab" width="300px">
 <br>
 <img src="https://raw.githubusercontent.com/mimisukeMaster/mimisukeMaster/main/profile-summary-card-output/monokai/1-repos-per-language.svg" width="300px">
 <img src="https://raw.githubusercontent.com/mimisukeMaster/mimisukeMaster/main/profile-summary-card-output/monokai/4-productive-time.svg" width="300px">
