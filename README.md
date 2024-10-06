@@ -19,38 +19,16 @@
 
 ## Hi! 
 
-I'm **mimisukeMaster**. I often use Unity and try out different technologies. Please check below.
+I'm **mimisukeMaster**. I often use Unity and try out different technologies.What I'm doing is post processing, simulations, python systems, web app developments... etc.
+
 I also have a little video on [Youtube](https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ).
- 
-## What I'm doing
-### Post Processing
- GIF
-<img src="https://user-images.githubusercontent.com/81568941/134362253-bf665f26-b4f8-449c-a611-2d80ad3233c1.gif" width="250px">
-PNG
-<img src="https://user-images.githubusercontent.com/81568941/134357931-f76bb642-a2ef-44da-8b0b-51cc66f9fda3.png" width="250px">
 
-### Simulation
-This is a [simulation of universal gravitation](https://github.com/mimisukeMaster/Simulation-of-Universal-Gravitation)<br>
-<img src="https://github.com/user-attachments/assets/c45c6f74-75bf-46cd-92e9-1e09ae9610f9" width=250px>
+[<img src="https://user-images.githubusercontent.com/81568941/134357931-f76bb642-a2ef-44da-8b0b-51cc66f9fda3.png" width="390px">](https://www.artstation.com/artwork/JeRzxa)
+[<img src="https://github.com/user-attachments/assets/c45c6f74-75bf-46cd-92e9-1e09ae9610f9" width="370px">](https://github.com/mimisukeMaster/Simulation-of-Universal-Gravitation)
 
-### Python System
-This is an implementation of a [Markov chain system in python](https://github.com/mimisukeMaster/MarkovChainGenerator)<br>
-<img width="350" src="https://github.com/user-attachments/assets/9d7ebcbd-1207-4e3d-92c2-b81a1e46030d">
+[<img src="https://github.com/user-attachments/assets/9d7ebcbd-1207-4e3d-92c2-b81a1e46030d" width="350px">](https://github.com/mimisukeMaster/MarkovChainGenerator)
+[<img alt="image" src="https://github.com/user-attachments/assets/61b8adaa-7d79-4095-a4b3-30d19e9b4f3c" width="415px">](https://github.com/mimisukeMaster/AI-VOICEVOX)
 
-### Web Application
-Web application that [uses GeminiAPI and reads out the answers using VOICEVOX](https://github.com/mimisukeMaster/AI-VOICEVOX)
-<img width="350" alt="image" src="https://github.com/user-attachments/assets/80a60e1b-5849-47db-9a47-079e4404e52f">
-
-
-### VR
-(I'm doing gymnastics.)<br>
-<img src="https://user-images.githubusercontent.com/81568941/134363902-fc726e5d-de24-4a2c-9d3f-48e9ff87f6cc.gif" width="250px">
-
-### AR
-[<img src="https://user-images.githubusercontent.com/81568941/134698743-e12b1a38-3df4-4e71-837e-e03b11b45cca.png" width="40px"><img src="https://img.shields.io/badge/Unity-ARFoundation-000000.svg?&color=054353&style=flat">](https://unity.com/ja/unity/features/arfoundation)
-[<img src="https://user-images.githubusercontent.com/81568941/134698866-849d09e0-0d46-4f44-beed-c98f3ba12885.jpeg" width="40px"><img src="https://img.shields.io/badge/LiDAR-000000.svg?&color=ffc125&style=flat">](https://www.apple.com/jp/newsroom/2020/03/apple-unveils-new-ipad-pro-with-lidar-scanner-and-trackpad-support-in-ipados/)
-[<img src="https://user-images.githubusercontent.com/81568941/134699038-34a40383-f66b-4d1b-b81d-252823c5417d.jpg" width="40px"><img src="https://img.shields.io/badge/Unity- ARKit-000000.svg?&color=16c7f3&style=flat">](https://docs.unity3d.com/Packages/com.unity.xr.arkit@4.2/manual/index.html)
-[<img src="https://user-images.githubusercontent.com/81568941/134699086-d110d08f-170a-4367-b012-750682c5a585.png" width="40px"><img src="https://img.shields.io/badge/Unity- ARCore-000000.svg?&color=ff31fe&style=flat">](https://developers.google.com/ar)
 
 ## SNS
 [<img src="https://github.com/mimisukeMaster/mimisukeMaster/assets/81568941/476ca95c-12f1-4a4d-8bc0-855473c8b832" width="32px">](https://twitter.com/mimisukeMaster) 
