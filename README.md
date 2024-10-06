@@ -39,13 +39,15 @@ I also have a little video on [Youtube](https://www.youtube.com/channel/UCWnmp8t
 [<img src="https://user-images.githubusercontent.com/81568941/158958883-3bc5b439-74ec-4c4b-b2b4-fa5721e57303.png" width="150px">](https://unityroom.com/users/mimisukemaster)
 
 ## Technologies <img src="https://media2.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="3%">
-[<img src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&style=for-the-badge">](https://unity.com/ja)
-[<img src="https://img.shields.io/badge/C%23-239120.svg?logo=C%20Sharp&style=flat">](https://docs.microsoft.com/ja-jp/dotnet/csharp/)
-[<img src="https://img.shields.io/badge/Python-ffbf00.svg?logo=python&style=flat">](https://www.python.org/)
-[<img src="https://img.shields.io/badge/javascript-333332.svg?logo=javascript&style=flat">](https://developer.mozilla.org/ja/docs/Web/JavaScript)
-[<img src="https://img.shields.io/badge/node.js-03c04a.svg?logo=node&style=flat">](https://nodejs.org/en)
-[<img src="https://img.shields.io/badge/Blender-096aff.svg?logo=blender&style=flat">](https://www.blender.org/)
-[<img src="https://img.shields.io/badge/Unity-MLAgents-black.svg">](https://unity.com/products/machine-learning-agents)
-[<img src="https://img.shields.io/badge/VR-F5792A.svg?&color=6F5BFA&style=flat">](https://azure.microsoft.com/ja-jp/services/kinect-dk/)
-[<img src="https://img.shields.io/badge/AR-F5792A.svg?&color=B1F9FA&style=flat">](https://unity.com/ja/unity/features/arfoundation)
+[<img src="https://skillicons.dev/icons?i=unity">](https://unity.com/ja)
+[<img src="https://skillicons.dev/icons?i=cs">](https://docs.microsoft.com/ja-jp/dotnet/csharp/)
+[<img src="https://skillicons.dev/icons?i=python">](https://www.python.org/)
+[<img src="https://skillicons.dev/icons?i=js">](https://developer.mozilla.org/ja/docs/Web/JavaScript)
+[<img src="https://skillicons.dev/icons?i=nodejs">](https://nodejs.org/en)
+[<img src="https://skillicons.dev/icons?i=npm">](https://www.npmjs.com/)
+[<img src="https://skillicons.dev/icons?i=blender">](https://www.blender.org/)
+
+[<img src="https://img.shields.io/badge/Unity-MLAgents-black.svg?logo=unity">](https://unity.com/products/machine-learning-agents)
+[<img src="https://img.shields.io/badge/VR-purple.svg">](https://azure.microsoft.com/ja-jp/services/kinect-dk/)
+[<img src="https://img.shields.io/badge/AR-F5792A.svg?logo=apple">](https://unity.com/ja/unity/features/arfoundation)
  
