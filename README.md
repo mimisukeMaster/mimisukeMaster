@@ -40,14 +40,24 @@ I also have a little video on [Youtube](https://www.youtube.com/channel/UCWnmp8t
 
 ## Technologies <img src="https://media2.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="3%">
 [<img src="https://skillicons.dev/icons?i=unity">](https://unity.com/ja)
+[<img src="https://skillicons.dev/icons?i=blender">](https://www.blender.org/)
 [<img src="https://skillicons.dev/icons?i=cs">](https://docs.microsoft.com/ja-jp/dotnet/csharp/)
 [<img src="https://skillicons.dev/icons?i=python">](https://www.python.org/)
 [<img src="https://skillicons.dev/icons?i=js">](https://developer.mozilla.org/ja/docs/Web/JavaScript)
 [<img src="https://skillicons.dev/icons?i=nodejs">](https://nodejs.org/en)
 [<img src="https://skillicons.dev/icons?i=npm">](https://www.npmjs.com/)
-[<img src="https://skillicons.dev/icons?i=blender">](https://www.blender.org/)
+<img src="https://skillicons.dev/icons?i=html">
+<img src="https://skillicons.dev/icons?i=css">
+<img src="https://skillicons.dev/icons?i=vercel">
+<img src="https://skillicons.dev/icons?i=vscode">
+<img src="https://skillicons.dev/icons?i=rider">
+<img src="https://skillicons.dev/icons?i=opencv">
+<img src="https://skillicons.dev/icons?i=pycharm">
+<img src="https://skillicons.dev/icons?i=linux">
+
+
 
 [<img src="https://img.shields.io/badge/Unity-MLAgents-black.svg?logo=unity">](https://unity.com/products/machine-learning-agents)
-[<img src="https://img.shields.io/badge/VR-purple.svg">](https://azure.microsoft.com/ja-jp/services/kinect-dk/)
-[<img src="https://img.shields.io/badge/AR-F5792A.svg?logo=apple">](https://unity.com/ja/unity/features/arfoundation)
+[<img src="https://img.shields.io/badge/Azure Kinect-purple.svg">](https://azure.microsoft.com/ja-jp/services/kinect-dk/)
+[<img src="https://img.shields.io/badge/ARKit-pink.svg?logo=apple">](https://unity.com/ja/unity/features/arfoundation)
  
