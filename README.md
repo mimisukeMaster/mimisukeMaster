@@ -37,12 +37,14 @@ I also have a little video on [Youtube](https://www.youtube.com/channel/UCWnmp8t
 ## WORKS
 [<img src="https://img.shields.io/badge/ART STATION-black?style=flat-square&logo=artstation" width="160px">](https://www.artstation.com/mimisukemaster) 
 [<img src="https://user-images.githubusercontent.com/81568941/158958883-3bc5b439-74ec-4c4b-b2b4-fa5721e57303.png" width="150px">](https://unityroom.com/users/mimisukemaster)
-
 ## Technologies <img src="https://media2.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="3%">
 [<img src="https://skillicons.dev/icons?i=unity">](https://unity.com/ja)
 [<img src="https://skillicons.dev/icons?i=blender">](https://www.blender.org/)
+<img alt="artstation" src="https://github.com/user-attachments/assets/4642eb21-92f0-4f5e-89ef-0075be17e215" height="45px">
+<img alt="davinci" src=https://github.com/user-attachments/assets/27b9e89c-52ee-41e3-a15f-7e9cf8d425b6 height="50px">
 [<img src="https://skillicons.dev/icons?i=cs">](https://docs.microsoft.com/ja-jp/dotnet/csharp/)
 [<img src="https://skillicons.dev/icons?i=python">](https://www.python.org/)
+<img alt="anaconda" src="https://github.com/user-attachments/assets/ba1309af-42ba-49bc-9f62-fc995a055757" height="50px">
 [<img src="https://skillicons.dev/icons?i=js">](https://developer.mozilla.org/ja/docs/Web/JavaScript)
 [<img src="https://skillicons.dev/icons?i=nodejs">](https://nodejs.org/en)
 [<img src="https://skillicons.dev/icons?i=npm">](https://www.npmjs.com/)
@@ -54,7 +56,10 @@ I also have a little video on [Youtube](https://www.youtube.com/channel/UCWnmp8t
 <img src="https://skillicons.dev/icons?i=opencv">
 <img src="https://skillicons.dev/icons?i=pycharm">
 <img src="https://skillicons.dev/icons?i=linux">
-
+<img alt="ubuntu" src="https://github.com/user-attachments/assets/7ec913c2-dcc5-42e6-84eb-eceea5df278c" height="50px">
+<img alt="voicevox" src="https://github.com/user-attachments/assets/f67cf454-bbf7-4aad-a45c-9818ae8a90aa" height="55px">
+<img alt="neutrino" src="https://github.com/user-attachments/assets/046f67dd-ba73-4bfe-b494-672937eb07bc" height="53px">
+<img alt="flat" src="https://github.com/user-attachments/assets/3f7ada68-bac7-4d66-9ccb-8a60e4b5ead8" height="49px">
 
 
 [<img src="https://img.shields.io/badge/Unity-MLAgents-black.svg?logo=unity">](https://unity.com/products/machine-learning-agents)
