@@ -19,7 +19,7 @@
 
 ## Hi! 
 
-I'm **mimisukeMaster**. I often use Unity and try out different technologies. I've been exposed to is post processing, simulations, python systems, web app developments... etc.
+I'm **mimisukeMaster**. I often use Unity and try out different technologies. I've been exposed to post processing, simulations, python systems, web app developments... etc.
 
 I also have some videos on [Youtube](https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ).
 
