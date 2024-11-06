@@ -19,9 +19,9 @@
 
 ## Hi! 
 
-I'm **mimisukeMaster**. I often use Unity and try out different technologies.What I'm doing is post processing, simulations, python systems, web app developments... etc.
+I'm **mimisukeMaster**. I often use Unity and try out different technologies. I7ve been exposed to is post processing, simulations, python systems, web app developments... etc.
 
-I also have a little video on [Youtube](https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ).
+I also have some videos on [Youtube](https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ).
 
 [<img src="https://user-images.githubusercontent.com/81568941/134357931-f76bb642-a2ef-44da-8b0b-51cc66f9fda3.png" width="390px">](https://www.artstation.com/artwork/JeRzxa)
 [<img src="https://github.com/user-attachments/assets/c45c6f74-75bf-46cd-92e9-1e09ae9610f9" width="370px">](https://github.com/mimisukeMaster/Simulation-of-Universal-Gravitation)
