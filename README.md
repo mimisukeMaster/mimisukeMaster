@@ -35,6 +35,8 @@ I also have some videos on [Youtube](https://www.youtube.com/channel/UCWnmp8t4GJ
 [<img src="https://user-images.githubusercontent.com/81568941/134698076-72b6b031-c592-4940-892d-e9307264cdd7.png" width="36px">](https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ) 
 
 ## WORKS
+You can view 3DCG works on ArtStation.
+
 [<img src="https://img.shields.io/badge/ART STATION-black?style=flat-square&logo=artstation" width="160px">](https://www.artstation.com/mimisukemaster) 
 [<img src="https://user-images.githubusercontent.com/81568941/158958883-3bc5b439-74ec-4c4b-b2b4-fa5721e57303.png" width="150px">](https://unityroom.com/users/mimisukemaster)
 ## Technologies <img src="https://media2.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="3%">
