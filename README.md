@@ -28,6 +28,7 @@ I also have some videos on [Youtube](https://www.youtube.com/channel/UCWnmp8t4GJ
 
 [<img src="https://github.com/user-attachments/assets/9d7ebcbd-1207-4e3d-92c2-b81a1e46030d" width="350px">](https://github.com/mimisukeMaster/MarkovChainGenerator)
 [<img alt="image" src="https://github.com/user-attachments/assets/61b8adaa-7d79-4095-a4b3-30d19e9b4f3c" width="415px">](https://github.com/mimisukeMaster/AI-VOICEVOX)
+[<img alt="image" src="https://github.com/user-attachments/assets/cc224e4d-b409-4bd7-ad8b-e5c98e8bc596" width="340px"/>](https://github.com/mimisukeMaster/mandelbrot-visualizer)
 
 
 ## SNS
@@ -54,9 +55,6 @@ You can view 3DCG works on ArtStation.
 <img src="https://skillicons.dev/icons?i=css">
 <img src="https://skillicons.dev/icons?i=vercel">
 <img src="https://skillicons.dev/icons?i=vscode">
-<img src="https://skillicons.dev/icons?i=rider">
-<img src="https://skillicons.dev/icons?i=opencv">
-<img src="https://skillicons.dev/icons?i=pycharm">
 <img src="https://skillicons.dev/icons?i=linux">
 <img alt="ubuntu" src="https://github.com/user-attachments/assets/7ec913c2-dcc5-42e6-84eb-eceea5df278c" height="50px">
 <img alt="voicevox" src="https://github.com/user-attachments/assets/f67cf454-bbf7-4aad-a45c-9818ae8a90aa" height="55px">
