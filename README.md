@@ -49,6 +49,7 @@ You can view 3DCG works on ArtStation.
 <img alt="artstation" src="https://github.com/user-attachments/assets/4642eb21-92f0-4f5e-89ef-0075be17e215" height="45px">
 <img alt="davinci" src=https://github.com/user-attachments/assets/27b9e89c-52ee-41e3-a15f-7e9cf8d425b6 height="50px">
 [<img src="https://skillicons.dev/icons?i=cs">](https://docs.microsoft.com/ja-jp/dotnet/csharp/)
+<img src="https://skillicons.dev/icons?i=c">
 [<img src="https://skillicons.dev/icons?i=python">](https://www.python.org/)
 <img alt="anaconda" src="https://github.com/user-attachments/assets/ba1309af-42ba-49bc-9f62-fc995a055757" height="50px">
 [<img src="https://skillicons.dev/icons?i=js">](https://developer.mozilla.org/ja/docs/Web/JavaScript)
