@@ -57,6 +57,7 @@ You can view 3DCG works on ArtStation.
 [<img src="https://skillicons.dev/icons?i=npm">](https://www.npmjs.com/)
 <img src="https://skillicons.dev/icons?i=html">
 <img src="https://skillicons.dev/icons?i=css">
+<img src="https://skillicons.dev/icons?i=tailwind">
 <img src="https://skillicons.dev/icons?i=vercel">
 <img src="https://skillicons.dev/icons?i=vscode">
 <img src="https://skillicons.dev/icons?i=linux">
