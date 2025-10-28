@@ -61,6 +61,7 @@ You can view 3DCG works on ArtStation.
 <img src="https://skillicons.dev/icons?i=vercel">
 <img src="https://skillicons.dev/icons?i=vscode">
 <img src="https://skillicons.dev/icons?i=linux">
+<img src="https://skillicons.dev/icons?i=threejs">
 <img alt="ubuntu" src="https://github.com/user-attachments/assets/7ec913c2-dcc5-42e6-84eb-eceea5df278c" height="50px">
 <img alt="voicevox" src="https://github.com/user-attachments/assets/f67cf454-bbf7-4aad-a45c-9818ae8a90aa" height="55px">
 <img alt="neutrino" src="https://github.com/user-attachments/assets/046f67dd-ba73-4bfe-b494-672937eb07bc" height="53px">
