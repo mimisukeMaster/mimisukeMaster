@@ -11,11 +11,7 @@
 [<img src="https://img.shields.io/badge/-X-X.svg?style=flat-square&logo=X&logoColor=white&color=black">](https://twitter.com/mimisukeMaster)
 [<img src="https://img.shields.io/badge/-ArtStation-artstation.svg?&style=flat-square&logo=artstation&logoColor=blue&color=gray">](https://www.artstation.com/mimisukemaster)
 [<img src="https://img.shields.io/badge/-Youtube-youtube.svg?&style=flat-square&logo=youtube&logoColor=white&color=red">](https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ)
-
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=mimisukeMaster">
-<img src="https://img.shields.io/github/followers/mimisukeMaster?color=f38ac5?label=follow &logo=github&style=flat">
-
 
 ## Hi!👐 
 I'm mimisukeMaster. I primarily work with Unity—not just for game development, but also for experimenting with physics simulations. I've also explored 3D graphics using Blender and have developed tools and analytical applications with Python.
