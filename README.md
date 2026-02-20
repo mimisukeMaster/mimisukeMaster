@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/mimisukeMaster/mimisukeMaster/main/profile-summary-card-output/monokai/1-repos-per-language.svg" width="300px">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mimisukeMaster&theme=monokai&utcOffset=9" width="300px">
  <br>
- <img src="https://github-profile-trophy.vercel.app/?username=mimisukeMaster&theme=radical&no-frame=true" width="800px">
+ <img src="https://github-profile-trophy-tawny.vercel.app/?username=mimisukeMaster&theme=radical&no-frame=true" width="800px">
 </p>
  
 <br><p align="center">
