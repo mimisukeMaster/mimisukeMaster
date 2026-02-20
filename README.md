@@ -1,10 +1,10 @@
 <p align="center">
- <img src="https://raw.githubusercontent.com/mimisukeMaster/mimisukeMaster/main/profile-summary-card-output/onedark/3-stats.svg" width="280px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimisukeMaster&layout=compact&langs_count=15&theme=onedark&hide=shaderlab" width="300px">
+ <img src="https://raw.githubusercontent.com/mimisukeMaster/mimisukeMaster/main/profile-summary-card-output/onedark/3-stats.svg" width="280px"><img src="https://github-readme-stats-khaki-psi-87.vercel.app/api/top-langs/?username=mimisukeMaster&layout=compact&langs_count=6&theme=onedark&hide=c%2B%2B,c,asp.net,objective-c%2B%2B,,objective-c" width="300px">
 <br>
 <img src="https://raw.githubusercontent.com/mimisukeMaster/mimisukeMaster/main/profile-summary-card-output/monokai/1-repos-per-language.svg" width="300px">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mimisukeMaster&theme=monokai&utcOffset=9" width="300px">
  <br>
- <img src="https://github-profile-trophy.vercel.app/?username=mimisukeMaster&theme=radical&no-frame=true&rank=-?" width="800px">
+ <img src="https://github-profile-trophy.vercel.app/?username=mimisukeMaster&theme=radical&no-frame=true" width="800px">
 </p>
  
 <br><p align="center">
