@@ -15,11 +15,15 @@
 <img src="https://komarev.com/ghpvc/?username=mimisukeMaster">
 
 ## Hi!👐 
-I'm mimisukeMaster. I primarily work with Unity—not just for game development, but also for experimenting with physics simulations. I've also explored 3D graphics using Blender and have developed tools and analytical applications with Python.
+主要なスキルについて、それぞれ以下のような経験を持っています。
+Unity: ゲーム開発ならびに物理シミュレーション
+Blender: 3DCG作品の制作や、ジオメトリノードを用いた動的モデル生成
+Python: 姿勢推定モジュールの開発、データ分析ツールの開発
+Web: Node.jsを用いたフロントエンド/バックエンドの連携によるWebアプリの構築
 
-Lately, I've started dabbling in web and LLM projects, and though I'm still a beginner, I've even tried my hand at Node.js. I  like visually stunning works, much like the effects achieved with Unity's PostProcessing.
+UnityのHDRPやPostProcessingで実現できるような、視覚的に美しい表現を取り入れた作品が好きです。
 
-Please feel free to check out some of my projects below.
+以下のプロジェクトも是非ご覧ください。
 
 [<img alt="morning hut" src="https://user-images.githubusercontent.com/81568941/134357931-f76bb642-a2ef-44da-8b0b-51cc66f9fda3.png" width="320px">](https://www.artstation.com/artwork/JeRzxa)
 [<img alt="simulation of universal gravitation" src="https://github.com/user-attachments/assets/c45c6f74-75bf-46cd-92e9-1e09ae9610f9" width="320px">](https://github.com/mimisukeMaster/Simulation-of-Universal-Gravitation)
@@ -34,8 +38,8 @@ Please feel free to check out some of my projects below.
 [<img src="https://github.com/mimisukeMaster/mimisukeMaster/assets/81568941/476ca95c-12f1-4a4d-8bc0-855473c8b832" width="32px">](https://twitter.com/mimisukeMaster) 
 [<img src="https://user-images.githubusercontent.com/81568941/134698076-72b6b031-c592-4940-892d-e9307264cdd7.png" width="36px">](https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ) 
 
-## WORKS🎨
-You can view 3DCG works on ArtStation.
+## Works🎨
+ArtStationで3DCG作品を閲覧することができます。
 
 [<img src="https://img.shields.io/badge/ART STATION-black?style=flat-square&logo=artstation" width="160px">](https://www.artstation.com/mimisukemaster) 
 [<img src="https://user-images.githubusercontent.com/81568941/158958883-3bc5b439-74ec-4c4b-b2b4-fa5721e57303.png" width="150px">](https://unityroom.com/users/mimisukemaster)
@@ -57,9 +61,7 @@ You can view 3DCG works on ArtStation.
 <img src="https://skillicons.dev/icons?i=tailwind">
 <img src="https://skillicons.dev/icons?i=vercel">
 <img src="https://skillicons.dev/icons?i=vscode">
-<img src="https://skillicons.dev/icons?i=linux">
 <img src="https://skillicons.dev/icons?i=threejs">
-<img alt="ubuntu" src="https://github.com/user-attachments/assets/7ec913c2-dcc5-42e6-84eb-eceea5df278c" height="50px">
 <img alt="voicevox" src="https://github.com/user-attachments/assets/f67cf454-bbf7-4aad-a45c-9818ae8a90aa" height="55px">
 <img alt="neutrino" src="https://github.com/user-attachments/assets/046f67dd-ba73-4bfe-b494-672937eb07bc" height="53px">
 <img alt="flat" src="https://github.com/user-attachments/assets/3f7ada68-bac7-4d66-9ccb-8a60e4b5ead8" height="49px">
