@@ -13,8 +13,6 @@
 [<img src="https://img.shields.io/badge/-ArtStation-artstation.svg?&style=flat-square&logo=artstation&logoColor=blue&color=gray">](https://www.artstation.com/mimisukemaster)
 [<img src="https://img.shields.io/badge/-Youtube-youtube.svg?&style=flat-square&logo=youtube&logoColor=white&color=red">](https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ)
 <img src="https://komarev.com/ghpvc/?username=mimisukeMaster">
-
-## Hi!👐 
 |分野|経験|
 |---|---|
 |Unity|ゲーム開発ならびに物理シミュレーション| 
