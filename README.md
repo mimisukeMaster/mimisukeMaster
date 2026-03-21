@@ -15,13 +15,12 @@
 <img src="https://komarev.com/ghpvc/?username=mimisukeMaster">
 
 ## Hi!👐 
-主要なスキルについて、それぞれ以下のような経験を持っています。
-|スキル|経験|
+|分野|経験|
 |---|---|
 |Unity|ゲーム開発ならびに物理シミュレーション| 
 |Blender|3DCG作品の制作や、ジオメトリノードを用いた動的モデル生成| 
 |Python|姿勢推定モジュールの開発、データ分析ツールの開発| 
-|Web|Node.jsを用いたフロントエンド/バックエンドの連携によるWebアプリの構築| 
+|Web|フロントエンド/バックエンドの連携によるWebアプリの構築| 
 
 UnityのHDRPやPostProcessingで実現できるような、視覚的に美しい表現を取り入れた作品を好んでいます。
 
@@ -64,6 +63,7 @@ ArtStationで3DCG作品を閲覧することができます。
 <img src="https://skillicons.dev/icons?i=vercel">
 <img src="https://skillicons.dev/icons?i=vscode">
 <img src="https://skillicons.dev/icons?i=threejs">
+<img src="https://skillicons.dev/icons?i=fastapi">
 <img alt="voicevox" src="https://github.com/user-attachments/assets/f67cf454-bbf7-4aad-a45c-9818ae8a90aa" height="55px">
 <img alt="neutrino" src="https://github.com/user-attachments/assets/046f67dd-ba73-4bfe-b494-672937eb07bc" height="53px">
 <img alt="flat" src="https://github.com/user-attachments/assets/3f7ada68-bac7-4d66-9ccb-8a60e4b5ead8" height="49px">
