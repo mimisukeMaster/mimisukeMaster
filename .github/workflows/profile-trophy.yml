@@ -24,7 +24,7 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: mimisukeMaster
-          token: ${{ github.token }}
+          token: ${{ secrets.SUMMARY_CARD_TOKEN_2026 }}
           file: profile-trophy-output/trophy.svg
           theme: radical
           max-cols: 10
