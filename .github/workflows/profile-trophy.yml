@@ -1,0 +1,41 @@
+name: Update GitHub Profile Trophy
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile-trophy
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate profile trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: mimisukeMaster
+          token: ${{ github.token }}
+          file: profile-trophy-output/trophy.svg
+          theme: radical
+          max-cols: 10
+          max-rows: 3
+          no-frame: true
+
+      - name: Commit generated SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-trophy-output/trophy.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "Update GitHub profile trophy"
+          git push
