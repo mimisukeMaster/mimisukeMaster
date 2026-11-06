@@ -117,7 +117,7 @@ ArtStationで3DCG作品を閲覧することができます。
     </td>
   </tr>
   <tr>
-    <td><b>Voice / Music</b></td>
+    <td><b>Music</b></td>
     <td>
       <img alt="VOICEVOX" src="https://github.com/user-attachments/assets/f67cf454-bbf7-4aad-a45c-9818ae8a90aa" height="40">
       <img alt="NEUTRINO" src="https://github.com/user-attachments/assets/046f67dd-ba73-4bfe-b494-672937eb07bc" height="40">
