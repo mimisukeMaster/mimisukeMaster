@@ -1,75 +1,157 @@
-<p align="center">
- <img src="https://raw.githubusercontent.com/mimisukeMaster/mimisukeMaster/main/profile-summary-card-output/onedark/3-stats.svg" width="280px">
- <img src="https://github-readme-stats-khaki-psi-87.vercel.app/api/top-langs/?username=mimisukeMaster&layout=compact&langs_count=6&theme=onedark&hide_border=true&hide=c%2B%2B,c,asp.net,objective-c%2B%2B,objective-c" width="300px">
-<br>
-<img src="https://raw.githubusercontent.com/mimisukeMaster/mimisukeMaster/main/profile-summary-card-output/monokai/1-repos-per-language.svg" width="300px">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mimisukeMaster&theme=monokai&utcOffset=9" width="300px">
- <br>
- <img src="https://raw.githubusercontent.com/mimisukeMaster/mimisukeMaster/main/profile-trophy-output/trophy.svg" width="900px">
-</p>
- 
-<br><p align="center">
-[<img src="https://img.shields.io/badge/-X-X.svg?style=flat-square&logo=X&logoColor=white&color=black">](https://twitter.com/mimisukeMaster)
-[<img src="https://img.shields.io/badge/-ArtStation-artstation.svg?&style=flat-square&logo=artstation&logoColor=blue&color=gray">](https://www.artstation.com/mimisukemaster)
-[<img src="https://img.shields.io/badge/-Youtube-youtube.svg?&style=flat-square&logo=youtube&logoColor=white&color=red">](https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ)
-<img src="https://komarev.com/ghpvc/?username=mimisukeMaster">
-|分野|経験|
-|---|---|
-|Unity|ゲーム開発ならびに物理シミュレーション| 
-|Blender|3DCG作品の制作や、ジオメトリノードを用いた動的モデル生成| 
-|Python|姿勢推定モジュールの開発、データ分析ツールの開発| 
-|Web|フロントエンド: JSによるWebアプリ<br>バックエンド:サーバのホスティング|
+<h1 align="center">mimisukeMaster</h1>
 
-UnityのHDRPやPostProcessingで実現できるような、視覚的に美しい表現を取り入れた作品を好んでいます。
+<p align="center">UnityのHDRPやPostProcessingで実現できるような、<br>視覚的に美しい表現を取り入れた作品を好んでいます。</p>
+
+<p align="center">
+  <a href="https://twitter.com/mimisukeMaster"><img alt="X" src="https://img.shields.io/badge/-X-X.svg?style=flat-square&logo=X&logoColor=white&color=black"></a>
+  <a href="https://www.artstation.com/mimisukemaster"><img alt="ArtStation" src="https://img.shields.io/badge/-ArtStation-artstation.svg?&style=flat-square&logo=artstation&logoColor=blue&color=gray"></a>
+  <a href="https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ"><img alt="YouTube" src="https://img.shields.io/badge/-Youtube-youtube.svg?&style=flat-square&logo=youtube&logoColor=white&color=red"></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=mimisukeMaster">
+</p>
+
+## Skills
+
+<table>
+  <tr><th width="160">分野</th><th width="672">経験</th></tr>
+  <tr><td><b>Unity</b></td><td>ゲーム開発ならびに物理シミュレーション</td></tr>
+  <tr><td><b>Blender</b></td><td>3DCG作品の制作や、ジオメトリノードを用いた動的モデル生成</td></tr>
+  <tr><td><b>Python</b></td><td>姿勢推定モジュールの開発、データ分析ツールの開発</td></tr>
+  <tr><td><b>Web</b></td><td>フロントエンド: JSによるWebアプリ<br>バックエンド: サーバのホスティング</td></tr>
+</table>
+
+## Experience
+
+<p>
+  <img alt="Fujitsu Internship 2026 open badge" src="https://github.com/user-attachments/assets/d9907bf7-89cf-421f-8999-b8c4d7adcaa7" width="100">
+</p>
+
+## Projects
 
 以下のプロジェクトも是非ご覧ください。
 
-[<img alt="morning hut" src="https://user-images.githubusercontent.com/81568941/134357931-f76bb642-a2ef-44da-8b0b-51cc66f9fda3.png" width="320px">](https://www.artstation.com/artwork/JeRzxa)
-[<img alt="simulation of universal gravitation" src="https://github.com/user-attachments/assets/c45c6f74-75bf-46cd-92e9-1e09ae9610f9" width="320px">](https://github.com/mimisukeMaster/Simulation-of-Universal-Gravitation)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mimisukeMaster/Simulation-of-Universal-Gravitation"><img alt="simulation of universal gravitation" src="https://github.com/user-attachments/assets/c45c6f74-75bf-46cd-92e9-1e09ae9610f9" width="100%"></a>
+      <br><b>Simulation of Universal Gravitation</b>
+      <br><sub>Compute Shader (GPGPU) による万有引力のシミュレーション</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mimisukeMaster/AI-VOICEVOX"><img alt="generated debate by using LLM and spoken by VOICEVOX" src="https://github.com/user-attachments/assets/61b8adaa-7d79-4095-a4b3-30d19e9b4f3c" width="100%"></a>
+      <br><b>AI-VOICEVOX</b>
+      <br><sub>複数のLLMが回答・ディベートし、VOICEVOXで読み上げるWebアプリ</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mimisukeMaster/BodyTrackingAnalyzer"><img alt="analysis of human body tracking data taken by Azure Kinect" src="https://github.com/user-attachments/assets/cc3e8316-b27f-4b0e-b142-58077ceecd7f" width="100%"></a>
+      <br><b>BodyTrackingAnalyzer</b>
+      <br><sub>Azure Kinectの骨格トラッキングを可視化し、座標データを分析するツール</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.artstation.com/artwork/JeRzxa"><img alt="morning hut" src="https://user-images.githubusercontent.com/81568941/134357931-f76bb642-a2ef-44da-8b0b-51cc66f9fda3.png" width="100%"></a>
+      <br><b>Morning Hut</b>
+      <br><sub>3DCG作品（ArtStation）</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mimisukeMaster/MarkovChainGenerator"><img alt="sentences generated by using Markov chain" src="https://github.com/user-attachments/assets/9d7ebcbd-1207-4e3d-92c2-b81a1e46030d" width="100%"></a>
+      <br><b>MarkovChainGenerator</b>
+      <br><sub>マルコフ連鎖によるランダムな文章の生成</sub>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center"><a href="https://github.com/mimisukeMaster/mandelbrot-visualizer"><img alt="mandelbrot set generated by python" src="https://github.com/user-attachments/assets/be57ee08-5a54-4c2d-aa67-1b9c5c9891cd" width="52%"></a></div>
+      <b>mandelbrot-visualizer</b>
+      <br><sub>Pythonで生成するマンデルブロ集合のビューア</sub>
+    </td>
+  </tr>
+</table>
 
-[<img alt="sentences generated by using Markov chain" src="https://github.com/user-attachments/assets/9d7ebcbd-1207-4e3d-92c2-b81a1e46030d" width="320px">](https://github.com/mimisukeMaster/MarkovChainGenerator)
-[<img alt="generated debate by using LLM and spoken by VOICEVOX" src="https://github.com/user-attachments/assets/61b8adaa-7d79-4095-a4b3-30d19e9b4f3c" width="320px">](https://github.com/mimisukeMaster/AI-VOICEVOX)
-
-[<img alt="mandelbrot set generated by python" src="https://github.com/user-attachments/assets/be57ee08-5a54-4c2d-aa67-1b9c5c9891cd" height="240px"/>](https://github.com/mimisukeMaster/mandelbrot-visualizer)
-[<img alt="analysis of human body tracking data taken by Azure Kinect" src="https://github.com/user-attachments/assets/cc3e8316-b27f-4b0e-b142-58077ceecd7f" width="470px">](https://github.com/mimisukeMaster/BodyTrackingAnalyzer)
-
-<img width="100" alt="open_badge_fj" src="https://github.com/user-attachments/assets/d9907bf7-89cf-421f-8999-b8c4d7adcaa7" />
-
-## SNS🕊️
-[<img src="https://github.com/mimisukeMaster/mimisukeMaster/assets/81568941/476ca95c-12f1-4a4d-8bc0-855473c8b832" width="32px">](https://twitter.com/mimisukeMaster) 
-[<img src="https://user-images.githubusercontent.com/81568941/134698076-72b6b031-c592-4940-892d-e9307264cdd7.png" width="36px">](https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ) 
-
-## Works🎨
 ArtStationで3DCG作品を閲覧することができます。
 
-[<img src="https://img.shields.io/badge/ART STATION-black?style=flat-square&logo=artstation" width="160px">](https://www.artstation.com/mimisukemaster) 
-[<img src="https://user-images.githubusercontent.com/81568941/158958883-3bc5b439-74ec-4c4b-b2b4-fa5721e57303.png" width="150px">](https://unityroom.com/users/mimisukemaster)
+<p>
+  <a href="https://www.artstation.com/mimisukemaster"><img alt="ArtStation" src="https://img.shields.io/badge/ART STATION-black?style=flat-square&logo=artstation" height="32"></a>
+  <a href="https://unityroom.com/users/mimisukemaster"><img alt="unityroom" src="https://user-images.githubusercontent.com/81568941/158958883-3bc5b439-74ec-4c4b-b2b4-fa5721e57303.png" height="32"></a>
+</p>
 
-## Technologies <img src="https://media2.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25px">
-[<img src="https://skillicons.dev/icons?i=unity">](https://unity.com/ja)
-[<img src="https://skillicons.dev/icons?i=blender">](https://www.blender.org/)
-<img alt="artstation" src="https://github.com/user-attachments/assets/4642eb21-92f0-4f5e-89ef-0075be17e215" height="45px">
-<img alt="davinci" src=https://github.com/user-attachments/assets/27b9e89c-52ee-41e3-a15f-7e9cf8d425b6 height="50px">
-[<img src="https://skillicons.dev/icons?i=cs">](https://docs.microsoft.com/ja-jp/dotnet/csharp/)
-<img src="https://skillicons.dev/icons?i=c">
-[<img src="https://skillicons.dev/icons?i=python">](https://www.python.org/)
-<img alt="anaconda" src="https://github.com/user-attachments/assets/ba1309af-42ba-49bc-9f62-fc995a055757" height="50px">
-[<img src="https://skillicons.dev/icons?i=js">](https://developer.mozilla.org/ja/docs/Web/JavaScript)
-[<img src="https://skillicons.dev/icons?i=nodejs">](https://nodejs.org/en)
-[<img src="https://skillicons.dev/icons?i=npm">](https://www.npmjs.com/)
-<img src="https://skillicons.dev/icons?i=html">
-<img src="https://skillicons.dev/icons?i=css">
-<img src="https://skillicons.dev/icons?i=tailwind">
-<img src="https://skillicons.dev/icons?i=vercel">
-<img src="https://skillicons.dev/icons?i=vscode">
-<img src="https://skillicons.dev/icons?i=threejs">
-<img src="https://skillicons.dev/icons?i=fastapi">
-<img alt="voicevox" src="https://github.com/user-attachments/assets/f67cf454-bbf7-4aad-a45c-9818ae8a90aa" height="55px">
-<img alt="neutrino" src="https://github.com/user-attachments/assets/046f67dd-ba73-4bfe-b494-672937eb07bc" height="53px">
-<img alt="flat" src="https://github.com/user-attachments/assets/3f7ada68-bac7-4d66-9ccb-8a60e4b5ead8" height="49px">
+## Technologies <img alt="" src="https://media2.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25">
 
+<table>
+  <tr>
+    <td width="160"><b>Languages</b></td>
+    <td width="672">
+      <a href="https://docs.microsoft.com/ja-jp/dotnet/csharp/"><img alt="C#" src="https://skillicons.dev/icons?i=cs" height="40"></a>
+      <img alt="C" src="https://skillicons.dev/icons?i=c" height="40">
+      <a href="https://www.python.org/"><img alt="Python" src="https://skillicons.dev/icons?i=python" height="40"></a>
+      <a href="https://developer.mozilla.org/ja/docs/Web/JavaScript"><img alt="JavaScript" src="https://skillicons.dev/icons?i=js" height="40"></a>
+      <img alt="HTML" src="https://skillicons.dev/icons?i=html" height="40">
+      <img alt="CSS" src="https://skillicons.dev/icons?i=css" height="40">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Game / 3DCG</b></td>
+    <td>
+      <a href="https://unity.com/ja"><img alt="Unity" src="https://skillicons.dev/icons?i=unity" height="40"></a>
+      <a href="https://www.blender.org/"><img alt="Blender" src="https://skillicons.dev/icons?i=blender" height="40"></a>
+      <img alt="Three.js" src="https://skillicons.dev/icons?i=threejs" height="40">
+      <img alt="ArtStation" src="https://github.com/user-attachments/assets/4642eb21-92f0-4f5e-89ef-0075be17e215" height="40">
+      <img alt="DaVinci Resolve" src="https://github.com/user-attachments/assets/27b9e89c-52ee-41e3-a15f-7e9cf8d425b6" height="40">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Web</b></td>
+    <td>
+      <a href="https://nodejs.org/en"><img alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" height="40"></a>
+      <a href="https://www.npmjs.com/"><img alt="npm" src="https://skillicons.dev/icons?i=npm" height="40"></a>
+      <img alt="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" height="40">
+      <img alt="FastAPI" src="https://skillicons.dev/icons?i=fastapi" height="40">
+      <img alt="Vercel" src="https://skillicons.dev/icons?i=vercel" height="40">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Voice / Music</b></td>
+    <td>
+      <img alt="VOICEVOX" src="https://github.com/user-attachments/assets/f67cf454-bbf7-4aad-a45c-9818ae8a90aa" height="40">
+      <img alt="NEUTRINO" src="https://github.com/user-attachments/assets/046f67dd-ba73-4bfe-b494-672937eb07bc" height="40">
+      <img alt="Flat" src="https://github.com/user-attachments/assets/3f7ada68-bac7-4d66-9ccb-8a60e4b5ead8" height="40">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img alt="VS Code" src="https://skillicons.dev/icons?i=vscode" height="40">
+      <img alt="Anaconda" src="https://github.com/user-attachments/assets/ba1309af-42ba-49bc-9f62-fc995a055757" height="40">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Others</b></td>
+    <td>
+      <a href="https://unity.com/products/machine-learning-agents"><img alt="Unity ML-Agents" src="https://img.shields.io/badge/Unity-MLAgents-black.svg?logo=unity"></a>
+      <a href="https://azure.microsoft.com/ja-jp/services/kinect-dk/"><img alt="Azure Kinect DK" src="https://img.shields.io/badge/Azure Kinect DK-blue.svg"></a>
+      <a href="https://unity.com/ja/unity/features/arfoundation"><img alt="ARKit" src="https://img.shields.io/badge/ARKit-pink.svg?logo=apple"></a>
+    </td>
+  </tr>
+</table>
 
-[<img src="https://img.shields.io/badge/Unity-MLAgents-black.svg?logo=unity">](https://unity.com/products/machine-learning-agents)
-[<img src="https://img.shields.io/badge/Azure Kinect DK-blue.svg">](https://azure.microsoft.com/ja-jp/services/kinect-dk/)
-[<img src="https://img.shields.io/badge/ARKit-pink.svg?logo=apple">](https://unity.com/ja/unity/features/arfoundation)
- 
+## GitHub Stats
+
+<p align="center">
+  <img alt="GitHub stats" src="https://raw.githubusercontent.com/mimisukeMaster/mimisukeMaster/main/profile-summary-card-output/onedark/3-stats.svg" width="47%">
+  <img alt="Most used languages" src="https://github-readme-stats-khaki-psi-87.vercel.app/api/top-langs/?username=mimisukeMaster&layout=compact&langs_count=6&theme=onedark&hide_border=true&hide=c%2B%2B,c,asp.net,objective-c%2B%2B,objective-c" width="50%">
+  <br>
+  <img alt="Top languages by repository" src="https://raw.githubusercontent.com/mimisukeMaster/mimisukeMaster/main/profile-summary-card-output/onedark/1-repos-per-language.svg" width="48.5%">
+  <img alt="Commits by time of day" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mimisukeMaster&theme=onedark&utcOffset=9" width="48.5%">
+</p>
+
+<p align="center">
+  <img alt="GitHub profile trophies" src="https://raw.githubusercontent.com/mimisukeMaster/mimisukeMaster/main/profile-trophy-output/trophy.svg" width="100%">
+</p>
+
+## SNS
+
+<p>
+  <a href="https://twitter.com/mimisukeMaster"><img alt="X" src="https://github.com/mimisukeMaster/mimisukeMaster/assets/81568941/476ca95c-12f1-4a4d-8bc0-855473c8b832" width="32"></a>
+  &nbsp;
+  <a href="https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ"><img alt="YouTube" src="https://user-images.githubusercontent.com/81568941/134698076-72b6b031-c592-4940-892d-e9307264cdd7.png" width="32"></a>
+</p>
