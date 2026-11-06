@@ -97,11 +97,10 @@ ArtStationで3DCG作品を閲覧することができます。
     </td>
   </tr>
   <tr>
-    <td><b>Game / 3DCG</b></td>
+    <td><b>Game / Visual Contents</b></td>
     <td>
       <a href="https://unity.com/ja"><img alt="Unity" src="https://skillicons.dev/icons?i=unity" height="40"></a>
       <a href="https://www.blender.org/"><img alt="Blender" src="https://skillicons.dev/icons?i=blender" height="40"></a>
-      <img alt="Three.js" src="https://skillicons.dev/icons?i=threejs" height="40">
       <img alt="ArtStation" src="https://github.com/user-attachments/assets/4642eb21-92f0-4f5e-89ef-0075be17e215" height="40">
       <img alt="DaVinci Resolve" src="https://github.com/user-attachments/assets/27b9e89c-52ee-41e3-a15f-7e9cf8d425b6" height="40">
     </td>
@@ -113,6 +112,7 @@ ArtStationで3DCG作品を閲覧することができます。
       <a href="https://www.npmjs.com/"><img alt="npm" src="https://skillicons.dev/icons?i=npm" height="40"></a>
       <img alt="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" height="40">
       <img alt="FastAPI" src="https://skillicons.dev/icons?i=fastapi" height="40">
+      <img alt="Three.js" src="https://skillicons.dev/icons?i=threejs" height="40">
       <img alt="Vercel" src="https://skillicons.dev/icons?i=vercel" height="40">
     </td>
   </tr>
