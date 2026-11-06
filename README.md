@@ -3,13 +3,8 @@
 <p align="center">
   <a href="https://twitter.com/mimisukeMaster"><img alt="X" src="https://img.shields.io/badge/-X-X.svg?style=flat-square&logo=X&logoColor=white&color=black"></a>
   <a href="https://www.artstation.com/mimisukemaster"><img alt="ArtStation" src="https://img.shields.io/badge/-ArtStation-artstation.svg?&style=flat-square&logo=artstation&logoColor=blue&color=gray"></a>
-  <a href="https://www.youtube.com/channel/UCWnmp8t4GJzcjBxhtgo9rKQ"><img alt="YouTube" src="https://img.shields.io/badge/-Youtube-youtube.svg?&style=flat-square&logo=youtube&logoColor=white&color=red"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=mimisukeMaster">
 </p>
-
-Unityでゲームやシミュレーションを作ったり、Blenderで3DCGを作ったり、Webアプリを開発したりしています。<br>
-HDRPやPostProcessingを使った、きれいな映像表現に特に力を入れています。<br>
-作ったもので誰かに喜んでもらえることや、人と一緒に作ることがものづくりのモチベーションです。
 
 ## Skills
 
@@ -39,8 +34,6 @@ HDRPやPostProcessingを使った、きれいな映像表現に特に力を入�
 </table>
 
 ## Projects
-
-以下のプロジェクトも是非ご覧ください。
 
 <table>
   <tr>
@@ -81,10 +74,10 @@ HDRPやPostProcessingを使った、きれいな映像表現に特に力を入�
   </tr>
 </table>
 
-ArtStationで3DCG作品を閲覧することができます。
+Other works (3DCG, Game)
 
 <p>
-  <a href="https://www.artstation.com/mimisukemaster"><img alt="ArtStation" src="https://img.shields.io/badge/ART STATION-black?style=flat-square&logo=artstation" height="32"></a>
+  <a href="https://www.artstation.com/mimisukemaster"><img alt="ArtStation" src="https://img.shields.io/badge/ART STATION-black?style=flat-square&logo=artstation" height="128"></a>
   <a href="https://unityroom.com/users/mimisukemaster"><img alt="unityroom" src="https://user-images.githubusercontent.com/81568941/158958883-3bc5b439-74ec-4c4b-b2b4-fa5721e57303.png" height="32"></a>
 </p>
 
