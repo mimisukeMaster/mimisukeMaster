@@ -11,8 +11,8 @@
 <table>
   <tr><th width="160">分野</th><th width="672">経験</th></tr>
   <tr><td><b>Unity</b></td><td>ゲーム開発ならびに物理シミュレーション</td></tr>
-  <tr><td><b>Blender</b></td><td>3DCG作品の制作や、ジオメトリノードを用いた動的モデル生成</td></tr>
-  <tr><td><b>Python</b></td><td>姿勢推定モジュールの開発、データ分析ツールの開発</td></tr>
+  <tr><td><b>Blender</b></td><td>3DCG制作、ジオメトリノードを用いた動的モデル生成</td></tr>
+  <tr><td><b>Python</b></td><td>ハンドジェスチャ推定モデル開発、データ分析ツールの開発</td></tr>
   <tr><td><b>Web</b></td><td>フロントエンド: JSによるWebアプリ<br>バックエンド: サーバのホスティング</td></tr>
 </table>
 
@@ -57,7 +57,7 @@
     <td width="50%" valign="top">
       <a href="https://www.artstation.com/artwork/JeRzxa"><img alt="morning hut" src="https://user-images.githubusercontent.com/81568941/134357931-f76bb642-a2ef-44da-8b0b-51cc66f9fda3.png" width="100%"></a>
       <br><b>Morning Hut</b>
-      <br><sub>3DCG作品（ArtStation）</sub>
+      <br><sub>3DCG作品（from ArtStation）</sub>
     </td>
   </tr>
   <tr>
@@ -91,6 +91,7 @@ Other works (3DCG, Game)
       <img alt="C" src="https://skillicons.dev/icons?i=c" height="40">
       <a href="https://www.python.org/"><img alt="Python" src="https://skillicons.dev/icons?i=python" height="40"></a>
       <a href="https://developer.mozilla.org/ja/docs/Web/JavaScript"><img alt="JavaScript" src="https://skillicons.dev/icons?i=js" height="40"></a>
+      <a href="https://developer.mozilla.org/ja/docs/Web/TypeScript"><img alt="TypeScript" src="https://skillicons.dev/icons?i=ts" height="40"></a>
       <img alt="HTML" src="https://skillicons.dev/icons?i=html" height="40">
       <img alt="CSS" src="https://skillicons.dev/icons?i=css" height="40">
     </td>
