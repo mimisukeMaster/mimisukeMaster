@@ -27,6 +27,10 @@
     <td width="702"><b>Fujitsu Internship</b><br>2026</td>
   </tr>
   <tr>
+    <td align="center"><img alt="PR TIMES HACKATHON 2026 SUMMER" src="https://raw.githubusercontent.com/mimisukeMaster/mimisukeMaster/main/assets/pr-times-hackathon-2026.png" width="100"></td>
+    <td><b>PR TIMES HACKATHON</b><br>2026</td>
+  </tr>
+  <tr>
     <td align="center"><img alt="Unity Youth Creator Cup" src="https://raw.githubusercontent.com/mimisukeMaster/mimisukeMaster/main/assets/unity-youth-creator-cup.png" width="100"></td>
     <td><b>Unity ユースクリエイターカップ</b><br>2021 出場<br>2022 出場（<a href="https://github.com/mimisukeMaster/OsakanaFlock">OsakanaFlock</a>）</td>
   </tr>
