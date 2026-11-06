@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td align="center"><img alt="Unity Youth Creator Cup" src="https://raw.githubusercontent.com/mimisukeMaster/mimisukeMaster/main/assets/unity-youth-creator-cup.png" width="100"></td>
-    <td><b>Unity ユースクリエイターカップ</b><br>2021 出場<br>2022 出場（<a href="https://github.com/mimisukeMaster/OsakanaFlock">OsakanaFlock</a>）</td>
+    <td><b>Unity ユースクリエイターカップ</b><br>2021, 2022（<a href="https://github.com/mimisukeMaster/OsakanaFlock">OsakanaFlock</a>）</td>
   </tr>
 </table>
 
