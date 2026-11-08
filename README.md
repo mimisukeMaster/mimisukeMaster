@@ -20,12 +20,12 @@
 
 <table>
   <tr>
-    <td width="130" align="center"><img alt="RAKUS Tech Lab 2026" src="https://raw.githubusercontent.com/mimisukeMaster/mimisukeMaster/main/assets/rakus-tech-lab-2026.png" width="100"></td>
-    <td width="702"><b>RAKUS Tech Lab</b><br>2026</td>
+    <td width="130" align="center"><img alt="Fujitsu Internship 2026 open badge" src="https://github.com/user-attachments/assets/d9907bf7-89cf-421f-8999-b8c4d7adcaa7" width="100"></td>
+    <td width="702"><b>Fujitsu Internship</b><br>2026</td>
   </tr>
   <tr>
-    <td align="center"><img alt="Fujitsu Internship 2026 open badge" src="https://github.com/user-attachments/assets/d9907bf7-89cf-421f-8999-b8c4d7adcaa7" width="100"></td>
-    <td><b>Fujitsu Internship</b><br>2026</td>
+    <td align="center"><img alt="RAKUS Tech Lab 2026" src="https://raw.githubusercontent.com/mimisukeMaster/mimisukeMaster/main/assets/rakus-tech-lab-2026.png" width="100"></td>
+    <td><b>RAKUS Tech Lab</b><br>2026</td>
   </tr>
   <tr>
     <td align="center"><img alt="PR TIMES HACKATHON 2026 SUMMER" src="https://raw.githubusercontent.com/mimisukeMaster/mimisukeMaster/main/assets/pr-times-hackathon-2026.png" width="100"></td>
